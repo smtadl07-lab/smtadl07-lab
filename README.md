@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm an AI student<br>👯 I focus on writing clean C++ code<br>🤝 I'm exploring the world of Generative AI<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡My goal is to become a leading AI Engineer 
+🔭 I'm student<br>👯 I focus on writing clean C++ code<br>🤝 I'm exploring the world of Generative AI<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡My goal is to become a leading AI Engineer 
 
 
 # 💻 Tech Stack:
